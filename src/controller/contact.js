@@ -1,5 +1,6 @@
 const asyncHandler = require('express-async-handler');
 const Contact = require('../model/contact');
+
 /*
     @desc Create contact
     @route POST /api/contast
